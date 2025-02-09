@@ -1,4 +1,4 @@
-  import "./boundingbox.css"
+  import "./Boundingbox.css"
   import vertor9 from "../../assets/img/Vector9.png"
   import vertor10 from "../../assets/img/Vector10.png"
   import vertor11 from "../../assets/img/Vector11.png"
